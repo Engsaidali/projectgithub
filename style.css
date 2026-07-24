@@ -5,13 +5,7 @@
     box-sizing: border-box;
 }
 
-/* Header */
-header {
-    background-color: #007bff;
-    color: rgb(255, 255, 255);
-    text-align: RIGHT;
-    padding: 20px;
-}
+
 /* Navigation */
 nav {
     background-color: #f10000;
