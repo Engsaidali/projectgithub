@@ -8,7 +8,7 @@ let da = 24;
 // Function
 function showMessage() {
 
-    alert("Ku soo dhawoow " + magaca + "!");
+    alert("welcom hoyga waxa brashadda" + magaca + "!");
 
     document.getElementById("title").innerHTML =
         "JavaScript Waa Shaqaynayaa!";
