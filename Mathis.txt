@@ -5,3 +5,5 @@ add value
 
 Answer:
 01010₂ = 10₁₀ (binary 01010 equals decimal 10).
+
+2⁰ = 1
