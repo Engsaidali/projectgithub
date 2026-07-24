@@ -27,3 +27,9 @@ nav a {
 av a:hover {
     color: #ffd700;
 }
+
+/* Main Content */
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
