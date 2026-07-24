@@ -6,8 +6,4 @@ Ability
 About
 Accept  
 
-Cold
-Color
-Come
-
-#Coffee
+add New  items
