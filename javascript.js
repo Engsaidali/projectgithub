@@ -1,5 +1,3 @@
-// Marka boggu furmo
-console.log("hellow macmiil .");
 
 // Variables
 let magaca = "Said Ali";
