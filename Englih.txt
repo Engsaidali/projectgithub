@@ -5,3 +5,7 @@ add  grill , womengit
 Ability
 About
 Accept  
+
+Cold
+Color
+Come
