@@ -4,3 +4,11 @@
     padding: 000;
     box-sizing: border-box;
 }
+
+/* Header */
+header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
