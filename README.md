@@ -1,1 +1,3 @@
-waxa aan ku noolahay 
+faaraax muuse 
+canab 
+warsame faarax 
