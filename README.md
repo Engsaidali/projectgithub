@@ -1,4 +1,6 @@
 general Dabbagle 
 muse dahable  
 
-osmaan  jimaale
+osmaan  jimaales
+
+waraabe iyo shibri kala war la, 
