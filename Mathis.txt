@@ -3,3 +3,6 @@ devtion
 
 Multiplication
 10000 × 5000 = 50,000,000
+
+Subtraction
+10000 - 5000 = 5000
