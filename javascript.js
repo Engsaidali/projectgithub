@@ -3,7 +3,7 @@ console.log("Website-ka wuu furmay.");
 
 // Variables
 let magaca = "Said Ali";
-let da = 20;
+let da = 24;
 
 // Function
 function showMessage() {
