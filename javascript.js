@@ -2,7 +2,7 @@
 console.log("Website-ka wuu furmay.");
 
 // Variables
-let magaca = "Abdde";
+let magaca = "Said Ali";
 let da = 20;
 
 // Function
