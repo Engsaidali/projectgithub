@@ -3,11 +3,145 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Website-kayga</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header{
+            background-color: darkblue;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav{
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a{
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+        }
+
+        nav a:hover{
+            color: yellow;
+        }
+
+        .container{
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .card{
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+
+        img{
+            width: 250px;
+            border-radius: 10px;
+        }
+
+        button{
+            background-color: green;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover{
+            background-color: darkgreen;
+        }
+
+        footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
 </head>
-<1>ABDDE  WAA ARDAY XARIIF AH </1>
-<3>ciwaan hoosaad </3>
+
 <body>
-    <p>Ku soo daawoow </p>
+
+<header>
+    <h1>ABDDE WAA ARDAY XARIIF AH</h1>
+    <h3>Ku Soo Dhawoow Website-kayga</h3>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Qaybta Koowaad</h2>
+        <p>
+            Ku soo dhawoow boggan. Waa tusaale HTML iyo CSS ah oo muujinaya
+            sida loo sameeyo bog casri ah.
+        </p>
+
+        <img src="https://via.placeholder.com/250" alt="Sawir">
+
+        <br><br>
+
+        <button>Riix Halkan</button>
+    </div>
+
+    <div class="card">
+        <h2>Waxyaabaha aan Baranay</h2>
+
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Git & GitHub</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Foomka Xiriirka</h2>
+
+        <form>
+            <label>Magaca:</label><br>
+            <input type="text" placeholder="Geli magacaaga"><br><br>
+
+            <label>Email:</label><br>
+            <input type="email" placeholder="Geli email-kaaga"><br><br>
+
+            <label>Fariin:</label><br>
+            <textarea rows="5" cols="40"></textarea><br><br>
+
+            <button type="submit">Dir Fariinta</button>
+        </form>
+    </div>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 ABDDE Website. Xuquuqdu Way Dhowran Tahay.</p>
+</footer>
+
 </body>
 </html>
