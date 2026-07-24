@@ -5,25 +5,3 @@
     box-sizing: border-box;
 }
 
-
-/* Navigation */
-nav {
-    background-color: #f10000;
-    padding: 10px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 15px;
-}
-
-av a:hover {
-    color: #ffd700;
-}
-
-/* Main Content */
-.container {
-    width: 80%;
-    margin: 20px auto;
-}
