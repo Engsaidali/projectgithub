@@ -2,3 +2,6 @@ binery number is 01010
 
 add value 
 8 + 2 = 10
+
+Answer:
+01010₂ = 10₁₀ (binary 01010 equals decimal 10).
