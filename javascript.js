@@ -1,5 +1,5 @@
 // Marka boggu furmo
-console.log("Website-ka wuu furmay.");
+console.log("hellow macmiil .");
 
 // Variables
 let magaca = "Said Ali";
