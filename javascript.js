@@ -1,24 +1,6 @@
 // basic shopping cart functionality
 // Cart array
 let cart = [];
-
-// Add product to cart
-function addCart(productName, price) {
-
-    let product = {git lo
-        name: productName,
-        price: price
-    };
-S
-    cart.push(product);
-
-    showCart();
-}
-
-
-// Show cart items
-function showCart() {
-
     let cartList = document.getElementById("cartList");
     let total = document.getElementById("total");
 
