@@ -1,0 +1,10 @@
+//hide all compiled files
+*.class
+secret.txt
+.env
+English.txt 
+image.png
+mathis.txt
+java.txt
+book.txt
+image.jpg
