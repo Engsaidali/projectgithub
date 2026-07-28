@@ -1,4 +1,6 @@
 //hide all compiled files
+.nvc
+
 *.class
 secret.txt
 .env
