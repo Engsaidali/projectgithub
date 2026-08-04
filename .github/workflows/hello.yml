@@ -1,0 +1,21 @@
+name: Hello Workflow
+
+on:
+  push:
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count files
+        run: |
+          COUNT=$(find . -type f | wc -l)
+          echo "FILES=$COUNT" >> $GITHUB_ENV
+
+      - name: Greet Student
+        run: |
+          echo "Hello ${{ vars.STUDENT_NAME }}, your files count are $FILES"
