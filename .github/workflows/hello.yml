@@ -13,7 +13,7 @@ jobs:
 
       - name: Count files
         run: |
-          COUNT=$(find . -type f | wc -l)
+          COUNT=$(find . -path ./.git -prune -o -type f -print | wc -l)
           echo "FILES=$COUNT" >> $GITHUB_ENV
 
       - name: Greet Student
