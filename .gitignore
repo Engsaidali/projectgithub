@@ -1,0 +1,12 @@
+//hide all compiled files
+.nvc
+git 
+*.class
+secret.txt
+.env
+English.txt 
+image.png
+mathis.txt
+java.txt
+book.txt
+image.jpg
